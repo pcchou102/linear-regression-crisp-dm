@@ -4,7 +4,7 @@
 
 ## 🌐 Demo Site
 
-**線上展示**: [https://your-app.streamlit.app/](https://your-app.streamlit.app/)  
+**線上展示**: [https://linear-regression-crisp-dm-hwwhlozodjvsw9qv9d8vht.streamlit.app/)  
 *(部署後請更新此連結)*
 
 ## 📋 專案簡介
@@ -175,3 +175,4 @@ MIT License
 ---
 
 **⭐ 如果這個專案對您有幫助，請給個星星支持！**
+
